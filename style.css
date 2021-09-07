@@ -1,0 +1,10 @@
+body{
+	background-color: aquamarine;
+	/* justify-content: center; */
+}
+
+
+.ground{
+	display: grid;
+	place-items: center;
+}
